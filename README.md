@@ -5,6 +5,6 @@
 
 ### Sobre mim
 
-Familiarizado com a programação, comecei meus estudos a partir de uma paixão sobre jogos, Trabalhei com desenvolvimento de jogos durante anos utilizando ferramentas como Unity e linguagens de programação orientada a objetos como C# e também me apaixonei pelo desenvolvimento em geral que agora utilizo linguagens tais como HTML, CSS, JAVASCRIPT e a famosa Frameworks/Biblioteca React JS
+Familiarizado com a programação, comecei meus estudos a partir de uma paixão sobre jogos, Trabalhei com desenvolvimento de jogos durante anos utilizando ferramentas como Unity e linguagens de programação orientada a objetos como C# e também me apaixonei pelo desenvolvimento em geral que agora utilizo linguagens tais como HTML, CSS, JAVASCRIPT e a famosa Framework/Biblioteca React JS
 
 
